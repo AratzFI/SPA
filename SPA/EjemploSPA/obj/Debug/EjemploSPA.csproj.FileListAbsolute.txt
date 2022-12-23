@@ -1,0 +1,14 @@
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\bin\Debug\EjemploSPA.exe.config
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\bin\Debug\EjemploSPA.exe
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\bin\Debug\EjemploSPA.pdb
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\bin\Debug\FuncionesAPI.dll
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\bin\Debug\FuncionesAPI.pdb
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.csproj.AssemblyReference.cache
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.csproj.SuggestedBindingRedirects.cache
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.Form1.resources
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.Properties.Resources.resources
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.csproj.GenerateResource.cache
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.csproj.CoreCompileInputs.cache
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.csproj.CopyComplete
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.exe
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\EjemploSPA\obj\Debug\EjemploSPA.pdb

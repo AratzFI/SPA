@@ -1,0 +1,11 @@
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\bin\Debug\Limpieza.exe.config
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\bin\Debug\Limpieza.exe
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\bin\Debug\Limpieza.pdb
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\obj\Debug\Limpieza.csproj.AssemblyReference.cache
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\obj\Debug\Limpieza.csproj.SuggestedBindingRedirects.cache
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\obj\Debug\Limpieza.csproj.CoreCompileInputs.cache
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\obj\Debug\Limpieza.exe
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\obj\Debug\Limpieza.pdb
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\bin\Debug\FuncionesAPI.dll
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\bin\Debug\FuncionesAPI.pdb
+E:\DAM-2\DOCUMENTOS\Centro de Estudios SEIM\DAM-2 (Dani) - Materiales de clase\PROG-SERVICIOS-PROCESOS\UD02\Soluciones\Pipes1\EjemploSPA\Limpieza\obj\Debug\Limpieza.csproj.CopyComplete
